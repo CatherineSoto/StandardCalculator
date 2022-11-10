@@ -1,1 +1,1 @@
-# StandardCalculator
+# Standard Calculator
